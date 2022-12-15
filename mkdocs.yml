@@ -1,0 +1,9 @@
+site_name: Ostrich Web Services (OWS)
+site_url: https://docs.ostrich.ag
+
+nav:
+  - Inicio: index.md
+  - Acerca de OWS: about.md
+
+theme:
+  name: material
