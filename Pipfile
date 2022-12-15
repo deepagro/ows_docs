@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mkdocs = "*"
+mkdocs-material = "*"
+
+[dev-packages]
+yamllint = "*"
+
+[requires]
+python_version = "3.9"
+
+[scripts]
+validate_yml = "pipenv run yamllint -d relaxed prod/ local/ --no-warnings"
+serve = "pipenv run mkdocs serve"
+build = "pipenv run mkdocs build"
+mkdocs-help = "pipenv run mkdocs -h"
