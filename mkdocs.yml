@@ -1,9 +1,17 @@
 site_name: Ostrich Web Services (OWS)
 site_url: https://docs.ostrich.ag
 
+copyright: Copyright &copy; 2022 DeepAgro.com
+
 nav:
   - Inicio: index.md
   - Acerca de OWS: about.md
 
 theme:
   name: material
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
