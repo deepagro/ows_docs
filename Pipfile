@@ -11,7 +11,7 @@ mkdocs-material = "*"
 yamllint = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
 
 [scripts]
 validate_yml = "pipenv run yamllint -d relaxed . --no-warnings"
