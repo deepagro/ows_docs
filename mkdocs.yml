@@ -5,10 +5,28 @@ copyright: Copyright &copy; 2022 DeepAgro.com
 
 nav:
   - Inicio: index.md
-  - Acerca de OWS: about.md
+  - Acerca de DeepAgro OWS:
+      - Introducción: ows/intro.md
+      - Arquitectura: ows/arch.md
+  - Acerca de DeepAgro Explorer: explorer.md
+  - Servicios:
+      - Auth service: services/auth.md
+      - Settings service: services/settings.md
+      - Notifications service: services/notifications.md
+      - Datalake service: services/datalake.md
+      - Annotations service: services/annotations.md
+      - Uploader service: services/uploader.md
+  - Releases:
+      - Auth service: releases/auth.md
+      - Settings service: releases/settings.md
+      - Notifications service: releases/notifications.md
+      - Datalake service: releases/datalake.md
+      - Annotations service: releases/annotations.md
+      - Uploader service: releases/uploader.md
 
 theme:
   name: material
+  logo: img/da-icon-white.png
 
 markdown_extensions:
   - attr_list
