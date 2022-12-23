@@ -27,6 +27,7 @@ nav:
 theme:
   name: material
   logo: img/da-icon-white.png
+  favicon: img/favicon.ico
 
 markdown_extensions:
   - attr_list
