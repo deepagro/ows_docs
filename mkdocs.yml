@@ -1,7 +1,7 @@
 site_name: Ostrich Web Services (OWS)
 site_url: https://docs.ostrich.ag
 
-copyright: Copyright &copy; 2022 DeepAgro.com
+copyright: Copyright &copy; 2023 DeepAgro.com
 
 nav:
   - Inicio: index.md
