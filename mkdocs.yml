@@ -6,7 +6,7 @@ copyright: Copyright &copy; 2023 DeepAgro.com
 nav:
   - Inicio: index.md
   - Acerca de DeepAgro OWS:
-      - Introducción: ows/intro.md
+      - Breve Introducción: ows/intro.md
       - Arquitectura: ows/arch.md
   - Acerca de DeepAgro Explorer: explorer.md
   - Servicios:
