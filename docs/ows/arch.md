@@ -10,6 +10,14 @@ Como se puede notar, se implementó el patrón de diseño *database-per-service*
 
 Cada servicio expone una REST API las cuales se encuentran bajo el dominio `https://ostrichapi.com`.
 
+### Servicio de predicciones
+
+Como se comenta en la introducción, DeepAgro posee diversos modelos de computer vision — ya en producción. Estos, en la actualidad, son ejecutados de forma offline y en hardware específico como sucede con DeepAgro SprAI. 
+
+En la actualidad, se está trabajando en un servicio web que pueda ejecutar estos modelos vía REST APIs: de esta forma, diferentes aplicaciones de terceros podrán hacer uso del conteo de plantas de maíz, detección de malezas en cultivos de soja y maíz, además de barbecho.
+
+![Servicio de predicciones](./../img/arch/predictions-service.png "Servicio de predicciones"){ style="display: block; margin: 0 auto" }
+
 ### Tecnologías
 
 Con respecto a tecnologías utilizadas, se pueden nombrar las que siguen:
