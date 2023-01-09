@@ -15,9 +15,14 @@ Todo dispositivo se coloca en ciertas maquinarias agrícolas que tengan la capac
 
 ![Dispositivo colocado 2](./../img/explorer/plugged-2.jpeg "Dispositivo colocado 2"){ width=400; style="display: block; margin: 0 auto" }
 
-Explorer es un **ojo inteligente en el campo**. Captura imágenes HD a una altura aproximada de 1.5 metros (en el caso común de instalación en pulverizadoras). Las imágenes tomadas, junto con toda otra metadata específica, son luegos utilizadas con diferentes propósitos: entrenamiento de diversos sistemas de soporte a la decisión agrícola (por lo general, modelos de computer vision) para su utilización en SprAI como también vía servicios web (el anteriormente mencionado Predictions Service), construcción de mapas para la generación de reportes de estadísticas visuales, e inteligencia de negocios.
+Explorer es un **ojo inteligente en el campo**. Captura imágenes HD a una altura aproximada de 1.5 metros (en el caso común de instalación en pulverizadoras). 
 
-> Trivialmente, las imágenes capturadas por dispositivos Explorer son de mayor definición y exactitud que aquellas tomadas por satélites. Por lo tanto, los sistemas de soporte implementados en DeepAgro son sendas veces más exactos. Además, el costo de recolección de datos es 0; comparando con ciertos planes de negocio que incluye volar drones por el lote
+Las imágenes tomadas, junto con toda otra metadata específica, son luegos utilizadas con diferentes propósitos: entrenamiento de diversos sistemas de soporte a la decisión agrícola (por lo general, modelos de computer vision) para su utilización en SprAI como también vía servicios web (el anteriormente mencionado Predictions Service), construcción de mapas para la generación de reportes de estadísticas visuales, e inteligencia de negocios.
+
+Trivialmente, las imágenes capturadas por dispositivos Explorer son de mayor definición y exactitud que aquellas tomadas por satélites. Además, el **costo de recolección** de datos es **```0```**; comparando con ciertos planes de negocio que incluye, por ejemplo, volar drones por el lote
+---
+
+Debajo se observan caputuras ejemplos de un dispositivo Explorer.
 
 ![Samples](./../img/explorer/samples.png "Samples"){ height=5; style="display: block; margin: 0 auto" }
 
@@ -26,3 +31,5 @@ Explorer es un **ojo inteligente en el campo**. Captura imágenes HD a una altur
 Actualmente, se encuentran instalados en diversas ubicaciones geográficas.
 
 ![Mapa explorer](./../img/explorer/map.png "Mapa explorer"){ height=5; style="display: block; margin: 0 auto" }
+
+Explorer es comercializado por DeepAgro o brindado comodato para el posterior entrenamiento de modelos de computer vision específicos del cliente.
