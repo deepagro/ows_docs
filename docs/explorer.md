@@ -32,3 +32,14 @@ Actualmente, se encuentran instalados en diversas ubicaciones geográficas.
 ![Mapa explorer](./../img/explorer/map.png "Mapa explorer"){ height=5; style="display: block; margin: 0 auto" }
 
 Explorer es comercializado por DeepAgro o brindado comodato para el posterior entrenamiento de modelos de computer vision específicos del cliente.
+
+## Trabajo a futuro
+
+Creemos que Explorer puede ser un dispositivo inteligente en el campo el cual, además, sea el encargado de interactuar con los encargados de los lotes. Creemos que es un producto indispensable para la transformación digital de la agricultura. En la actualidad, se está trabajando bajo el siguiente esquema:
+
+![Explorer future](./../img/explorer/future.png "Explorer future"){ height=5; style="display: block; margin: 0 auto" }
+
+Como se puede notar, Explorer es el punto de conversación entre lo que sucede en el campo (máquina agrícola) y el engargado de la misma o encargado del campo en general. Algunos conversaciones pueden ser las siguientes:
+
+- Estadísticas, en tiempo real, de la máquina (encendido/apagado, posiciones geográficas, alertas) — concepto *black box*.
+- Detección de "imágenes sospechosas", recomendadas por modelos de computer vision *in-house*.
