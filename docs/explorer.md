@@ -19,8 +19,7 @@ Explorer es un **ojo inteligente en el campo**. Captura imágenes HD a una altur
 
 Las imágenes tomadas, junto con toda otra metadata específica, son luegos utilizadas con diferentes propósitos: entrenamiento de diversos sistemas de soporte a la decisión agrícola (por lo general, modelos de computer vision) para su utilización en SprAI como también vía servicios web (el anteriormente mencionado Predictions Service), construcción de mapas para la generación de reportes de estadísticas visuales, e inteligencia de negocios.
 
-Trivialmente, las imágenes capturadas por dispositivos Explorer son de mayor definición y exactitud que aquellas tomadas por satélites. Además, el **costo de recolección** de datos es **```0```**; comparando con ciertos planes de negocio que incluye, por ejemplo, volar drones por el lote
----
+> Trivialmente, las imágenes capturadas por dispositivos Explorer son de mayor definición y exactitud que aquellas tomadas por satélites. Además, el **costo de recolección** de datos es **```0```**; comparando con ciertos planes de negocio que incluye, por ejemplo, volar drones por el lote
 
 Debajo se observan caputuras ejemplos de un dispositivo Explorer.
 
