@@ -1,5 +1,10 @@
-site_name: Ostrich Web Services (OWS)
+site_name: DeepAgro Ostrich Web Services (OWS)
 site_url: https://docs.ostrich.ag
+
+title: DeepAgro Ostrich web services (OWS)
+summary: A brief description about OWS
+authors:
+  - Luciano Perezzini
 
 copyright: Copyright &copy; 2023 DeepAgro.com
 
