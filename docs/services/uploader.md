@@ -1,8 +1,8 @@
 # Servicio de subida de objetos
 
-Documentación disponible en: [https://ostrichapi.com/uploader/redoc](https://ostrichapi.com/uploader/redoc)
+*Uploader Service* se encarga de serializar objetos — por lo general, imágenes junto con, metadata optativa — dentro de nuestra arquitectura de datalake específica para el dominio de la agricultura.
 
-En desarrollo.
+> Documentación disponible en: [https://ostrichapi.com/uploader/redoc](https://ostrichapi.com/uploader/redoc)
 
 ## Releases
 
