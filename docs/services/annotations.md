@@ -1,8 +1,10 @@
 # Servicio de anotaciones
 
-Documentación disponible en: [https://ostrichapi.com/annotations/redoc](https://ostrichapi.com/annotations/redoc)
+*Annotations Service* es el encargado del tagging de imágenes dentro de nuestro propio datalake, además de la recuperación de imágenes con tags específicos. El tagging puede realizarse utilizando recursos humanos o mediante diferentes algoritmos (por lo general, modelos de machine learning).
 
-En desarrollo.
+Cabe destacar que, el mencionado servicio, tiene la capacidad de exportar búsquedas en formato `CSV`, plano, mediante la ejecución de consultas complejas utilizando el lenguaje de consultas (DSL) [especificado](https://opensearch.org/docs/latest/opensearch/query-dsl/index/) por OpenSearch. El dataset exportado es enviado por e-mail al usuario que ejecutó la consulta vía `notification@ostrichapi.com`.
+
+> Documentación disponible en: [https://ostrichapi.com/annotations/redoc](https://ostrichapi.com/annotations/redoc)
 
 ## Releases
 
