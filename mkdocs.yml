@@ -15,19 +15,12 @@ nav:
       - Arquitectura: ows/arch.md
   - Acerca de DeepAgro Explorer: explorer.md
   - Servicios:
-      - Auth service: services/auth.md
-      - Settings service: services/settings.md
-      - Notifications service: services/notifications.md
-      - Datalake service: services/datalake.md
-      - Annotations service: services/annotations.md
-      - Uploader service: services/uploader.md
-  - Releases:
-      - Auth service: releases/auth.md
-      - Settings service: releases/settings.md
-      - Notifications service: releases/notifications.md
-      - Datalake service: releases/datalake.md
-      - Annotations service: releases/annotations.md
-      - Uploader service: releases/uploader.md
+      - Autorización & autenticación: services/auth.md
+      - Configuraciones: services/settings.md
+      - Notificaciones: services/notifications.md
+      - Datalake: services/datalake.md
+      - Anotaciones: services/annotations.md
+      - Subida de objetos: services/uploader.md
 
 theme:
   name: material
