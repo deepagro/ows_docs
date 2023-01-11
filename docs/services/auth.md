@@ -1,8 +1,10 @@
 # Servicio de autorización & autenticación
 
-Documentación disponible en: [https://ostrichapi.com/auth/redoc](https://ostrichapi.com/auth/redoc)
+*Auth Service* es el servicio encargado de la autorización, mediante la generación de tokens [JWT](https://jwt.io/), y la validación de bearer tokens — utilizando la especificación [OAuth2](https://oauth.net/2/).
 
-En desarrollo.
+Además, comprende de la responsabilidad de la recuperación y modificación de usuarios.
+
+> Documentación disponible en: [https://ostrichapi.com/auth/redoc](https://ostrichapi.com/auth/redoc)
 
 ## Releases
 
