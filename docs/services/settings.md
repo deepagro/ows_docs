@@ -1,8 +1,8 @@
 # Servicio de configuraciones
 
-Documentación disponible en: [https://ostrichapi.com/settings/redoc](https://ostrichapi.com/settings/redoc)
+La responsabilidad de *Settings Service* es la de ser un servicio centralizado para mantener configuraciones globales de OWS — es decir, configuraciones propias de cada servicio.
 
-En desarrollo.
+> Documentación disponible en: [https://ostrichapi.com/settings/redoc](https://ostrichapi.com/settings/redoc)
 
 ## Releases
 
