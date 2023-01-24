@@ -21,7 +21,7 @@ Las imágenes tomadas, junto con toda otra metadata específica, son luegos util
 
 > Trivialmente, las imágenes capturadas por dispositivos Explorer son de mayor definición y exactitud que aquellas tomadas por satélites. Además, el **costo de recolección** de datos es **```0```**; comparando con ciertos planes de negocio que incluye, por ejemplo, volar drones por el lote
 
-Debajo se observan caputuras ejemplos de un dispositivo Explorer.
+Debajo se observan ejemplos de imágenes capturadas por un dispositivo Explorer.
 
 ![Samples](./../img/explorer/samples.png "Samples"){ height=5; style="display: block; margin: 0 auto" }
 
